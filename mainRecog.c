@@ -27,5 +27,9 @@ int main(int argc, char *argv[]) {
  * 			needs, to scan not for whole line, but until equal sign.
  * 		- balbhablakb
  *
+<<<<<<< HEAD
  *  more BS
+=======
+ *
+>>>>>>> d9fef4fc5a1b237cb5914d320a6d6a0b33dfe80d
  * */
